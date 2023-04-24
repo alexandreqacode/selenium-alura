@@ -1,4 +1,4 @@
-package helloWorld;
+package leilao.helloWorld;
 
 import org.junit.Test;
 import org.openqa.selenium.WebDriver;
